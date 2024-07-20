@@ -24,7 +24,6 @@ function Main() {
         <div className="content">
             <div className="top-bar">
                 <div className="ml-auto">
-                    <h1 id="user_id"></h1>
                 </div>
             </div>
             <div className="box">
