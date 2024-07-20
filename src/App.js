@@ -6,7 +6,7 @@ import './dist/css/app.css';
 function App() {
   return (
     <nav class="side-nav">
-      <a class="intro-x flex items-center pl-5 pt-4">
+      <a class="intro-x flex items-center pl-5 pt-4"> 
         <img alt="Rubick Tailwind HTML Admin Template" class="w-6" src={logo}></img>
         <span class="hidden xl:block text-white text-lg ml-3"> Ticketing Tool </span> 
       </a>
